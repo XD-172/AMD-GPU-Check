@@ -1,6 +1,6 @@
 # AMD-GPU-Check
-A simple tool that downloads the latest AMD Driver
+A simple tool that downloads the latest AMD Driver (port from the Nvidia one)
 
 Functions:
 --------------------------
-What do You think?
+Auto-Downloads the latest driver 
